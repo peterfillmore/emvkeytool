@@ -1,6 +1,5 @@
-# Project Title
+# EMV Key Tool
 
-emvkeytool.py
 a tool for obtaining, testing and dumping RSA keys on EMV chip cards.
 
 ## Getting Started
